@@ -13,7 +13,7 @@
 
 ## Notes
 
-- la suppresion du gossip est effectuée en utilisant les commandes du shell .. A verifier sur votre environnement 💣
+- La suppresion du gossip est effectuée en utilisant les commandes du shell .. A vérifier sur votre environnement 💣
 
 
 ## Fabriqué avec
