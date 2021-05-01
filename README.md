@@ -24,4 +24,4 @@
 
 ## Auteur
 
-* **laurent Mollard-Chaumette** _alias_ [MaxiApplePie](https://github.com/MaxiApplePie)
+* **Laurent Mollard-Chaumette** _alias_ [MaxiApplePie](https://github.com/MaxiApplePie)
