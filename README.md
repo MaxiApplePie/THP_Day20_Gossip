@@ -1,9 +1,9 @@
-# Projet jour 19 : GOSSIPS
+# Projet jour 20 : GOSSIPS
 
 
 ## Comment l'utiliser
 
- - app.rb permet d'acceder au menu
+ - app.rb permet d'accéder au menu
 
 
 ### Pré-requis
@@ -13,13 +13,13 @@
 
 ## Notes
 
-- la suppresion du gossip est effectuée en utilisant les commandes du shell .. A verifier sur voter environnement 💣
+- la suppresion du gossip est effectuée en utilisant les commandes du shell .. A verifier sur votre environnement 💣
 
 
 ## Fabriqué avec
 
-* [Windows 10.css // WSL2 // Ubuntu] - Environnement
-* [VS Code] - Editeur de textes
+* [Windows 10 // WSL2 // Ubuntu] - Environnement
+* [VS Code] - Editeur de texte
 
 
 ## Auteur
